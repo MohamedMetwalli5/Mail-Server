@@ -14,4 +14,3 @@ This was done by me and my colleague in the second term in the first year in the
 ![](Screen%20Shots/viewing%20e-mail%202%20(with%20the%20photo%20attachment).PNG)
 ![](Screen%20Shots/the%20two%20e-mails%20were%20sent%20successfully.PNG)
 ![](Screen%20Shots/deleting%20an%20e-mail.PNG)
-![](Screen%20Shots/trash.PNG)
