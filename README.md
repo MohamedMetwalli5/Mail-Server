@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-Apache_2.0-purple.svg)
+![License](https://img.shields.io/badge/license-Apache_2.0-cyan.svg)
 ![Language](https://img.shields.io/badge/language-Java%20-red.svg)
 
 # Mail-Server
