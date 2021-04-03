@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/language-Java%20-blue.svg)
+![Language](https://img.shields.io/badge/language-Java%20-red.svg)
 
 # Mail-Server
 This was done by me and my colleague in the second term in the first year in the computer and systems engineering departement as a final project .
